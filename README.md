@@ -1,7 +1,7 @@
 # Laravel11-task-app-v2.0
-This repository is mianly backend task schedule application that can be consumed by any frontend frameworks
+This repository is mianly backend task schedule application that can be consumed by any frontend frameworks<br>
 
-Release of Additional software for Appy Task schedule mgt version 2.0 today which is purely backend development and restful API integration.<br>
+Release of Additional software for  Task schedule mgt version 2.0 today which is purely backend development and restful API integration.<br>
 ## laravel 
 I used the latest version of Laravel that was released last week; Laravel 11.6.<br>
 
